@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Supertbl_Change_Notification_Report", "Supertbl_Change_Notification_Report\Supertbl_Change_Notification_Report.dtproj", "{225C3732-12F4-4248-BDEA-42AE35BC8733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{225C3732-12F4-4248-BDEA-42AE35BC8733}.Development|Default.ActiveCfg = Development
+		{225C3732-12F4-4248-BDEA-42AE35BC8733}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC335A3C-12CF-4251-A75B-B3FEB53211F2}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://dvapp18:8080/tfs/diit
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Supertbl_Change_Notification_Report\\Supertbl_Change_Notification_Report.dtproj
+		SccProjectName1 = Supertbl_Change_Notification_Report
+		SccLocalPath1 = Supertbl_Change_Notification_Report
+	EndGlobalSection
+EndGlobal
